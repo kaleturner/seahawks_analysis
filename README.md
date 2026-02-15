@@ -1,6 +1,6 @@
 # seahawks_analysis
 
-conda install scrapy
-conda install seaborn
-conda install pandas
-conda install pytorch
+conda install scrapy\n
+conda install seaborn\n
+conda install pandas\n
+conda install pytorch\n
